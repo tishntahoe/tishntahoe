@@ -7,13 +7,23 @@
 ---
 
 ### 🛠 Стек и ключевые навыки
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
-- 🧠 Языки: `Golang`, `C#`, `SQL`, `bash`, `Python (basic)`
-- 💡 Фреймворки: `.NET`, `ASP.NET MVC`, `gRPC`, `REST`
-- 🛢️ Базы данных: `PostgreSQL`, `Clickhouse`, `MSSQL`
-- ☸️ DevOps: `Docker`, `Kubernetes`, `Nginx`
-- 🔧 Прочее: `RabbitMQ`, `Git`, `Linux`, `SOLID`, `MVC/MVVM`
+<table>
+  <tr>
+    <td >
+      <ul>
+        <li>🧠 Языки: <code>Golang</code>, <code>C#</code>, <code>SQL</code>, <code>bash</code>, <code>Python (basic)</code></li>
+        <li>💡 Фреймворки: <code>.NET</code>, <code>ASP.NET MVC</code>, <code>gRPC</code>, <code>REST</code></li>
+        <li>🛢️ Базы данных: <code>PostgreSQL</code>, <code>Clickhouse</code>, <code>MSSQL</code></li>
+        <li>☸️ DevOps: <code>Docker</code>, <code>Kubernetes</code>, <code>Nginx</code></li>
+        <li>🔧 Прочее: <code>RabbitMQ</code>, <code>Git</code>, <code>Linux</code>, <code>SOLID</code>, <code>MVC/MVVM</code></li>
+      </ul>
+    </td>
+    <td >
+      <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,5 +46,5 @@
 
 ---
 
-- Всегда открыт к новым технологиям и улучшениям
+<h1 align="center">Всегда открыт к новым технологиям и улучшениям</h1>
 
