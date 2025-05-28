@@ -7,8 +7,7 @@
 ---
 
 ### 🛠 Стек и ключевые навыки
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
 - 🧠 Языки: `Golang`, `C#`, `SQL`, `bash`, `Python (basic)`
 - 💡 Фреймворки: `.NET`, `ASP.NET MVC`, `gRPC`, `REST`
