@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://t.me/tishntahoe"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:fun.stim@yandex.ru"><img src="https://img.shields.io/badge/email-fun.stim@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:fun.stim@yandex.ru"><img src="https://img.shields.io/badge/email-fabirshe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/tishntahoe"><img src="https://img.shields.io/badge/GitHub-tishntahoe-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
