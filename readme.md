@@ -16,7 +16,7 @@
         <li>💡 Фреймворки: <code>.NET</code>, <code>ASP.NET MVC</code>, <code>gRPC</code>, <code>REST</code></li>
         <li>🛢️ Базы данных: <code>PostgreSQL</code>, <code>Clickhouse</code>, <code>MSSQL</code></li>
         <li>☸️ DevOps: <code>Docker</code>, <code>Kubernetes</code>, <code>Nginx</code></li>
-        <li>🔧 Прочее: <code>RabbitMQ</code>, <code>Git</code>, <code>Linux</code>, <code>SOLID</code>, <code>MVC/MVVM</code></li>
+        <li>🔧 Прочее: <code>Kafka</code>, <code>Git</code>, <code>Linux</code>, <code>SOLID</code>, <code>MVC/MVVM</code></li>
       </ul>
     </td>
     <td >
